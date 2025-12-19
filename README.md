@@ -258,6 +258,9 @@ This project is licensed under the MIT License.
 **Sahil Garg**
 - GitHub: [@SahilGarg15](https://github.com/SahilGarg15)
 
+**Kunal Bhatia**
+- GitHub: [@Kunalbhatia2601](https://github.com/kunalbhatia2601)
+
 ## 🙏 Acknowledgments
 
 - [shadcn/ui](https://ui.shadcn.com/) for the beautiful UI components
